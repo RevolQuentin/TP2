@@ -1,0 +1,72 @@
+body { 
+    font-family: "Duru Sans", Verdana, sans-serif; 
+}
+
+h1{
+    color: #993399;
+    font-family: "Marko One";
+    font-size: 1.5em;
+    text-shadow: 0.2em 0.2em #D3D3D3;
+}
+
+h2{
+    color:#CC6600;
+    font-family: "Duru Sans";
+    font-size: 1em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+
+#info{
+    text-align: center
+}
+
+#appetizers{
+    text-align: center;list-style-type: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+dt{
+    color:#A0522D;
+    font-family: "Duru Sans";
+}
+
+strong{
+    color:#FF6347
+}
+
+p{
+    font-family: "Verdana";
+    color:#808080;
+    font-size: 0.875em;
+}
+
+p.warning{
+    color:#FF0000
+}
+span.price{
+    font-family: Georgia; color:#808080
+}
+
+li.c1{
+    list-style: lower-roman;
+}
+
+li.c2{
+    list-style: circle;
+}
+
+li.c3{
+    list-style: disc;
+    list-style-position: inside;
+}
+
+li.c4{
+    list-style-position: outside;
+    font-size: 2rem;
+    list-style-image:url(images/bull.PNG);
+}
