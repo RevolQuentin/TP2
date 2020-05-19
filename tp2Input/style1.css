@@ -23,7 +23,8 @@ h2{
 }
 
 #appetizers{
-    text-align: center;list-style-type: none;
+    text-align: center;
+    list-style-type: none;
 }
 
 ul{
@@ -49,7 +50,8 @@ p.warning{
     color:#FF0000
 }
 span.price{
-    font-family: Georgia; color:#808080
+    font-family: Georgia; 
+    color:#808080
 }
 
 li.c1{
